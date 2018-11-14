@@ -4,7 +4,7 @@ How to use:
 
 1. Install Nuget package **GitHub.AutoRelease**.
 
-2. In the startup code of your web app, create an [AutoRelease](https://github.com/adamosoftware/GitHubAutoRelease/blob/master/GitHubAutoRelease/AutoRelease.cs) object and call its `CreateOnStartupAsync` method.
+2. In the startup code of your web app, create an [AutoRelease](https://github.com/adamosoftware/GitHubAutoRelease/blob/master/GitHubAutoRelease/AutoRelease.cs) object and call its `CreateOnStartupAsync` method. Note this is currently in beta.
 
 The `AutoRelease` constructor requires a few arguments:
 
