@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>GitHub.AutoRelease</id>
-    <version>$version$</version>
+    <version>$version$-beta</version>
     <title>$title$</title>
     <authors>$author$</authors>
     <owners>$author$</owners>
